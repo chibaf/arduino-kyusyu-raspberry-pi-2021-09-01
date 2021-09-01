@@ -1,2 +1,3 @@
 # arduino-kyusyu-raspberry-pi-2021-09-01
-a program on remote raspberry pi
+
+a program on arduino connected to remote raspberry of kyusyu univ. chikushi chiku
